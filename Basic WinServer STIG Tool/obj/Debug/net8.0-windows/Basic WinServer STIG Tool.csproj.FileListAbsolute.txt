@@ -1,0 +1,16 @@
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.AssemblyInfoInputs.cache
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.AssemblyInfo.cs
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.csproj.CoreCompileInputs.cache
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic_WinServer_STIG_Tool.MainForm.resources
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.csproj.GenerateResource.cache
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\bin\Debug\net8.0-windows\Basic WinServer STIG Tool.exe
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\bin\Debug\net8.0-windows\Basic WinServer STIG Tool.deps.json
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\bin\Debug\net8.0-windows\Basic WinServer STIG Tool.runtimeconfig.json
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\bin\Debug\net8.0-windows\Basic WinServer STIG Tool.dll
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\bin\Debug\net8.0-windows\Basic WinServer STIG Tool.pdb
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.dll
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\refint\Basic WinServer STIG Tool.dll
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.pdb
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\Basic WinServer STIG Tool.genruntimeconfig.cache
+C:\Users\lolvu\OneDrive\source\github\Basic WinServer STIG Tool\Basic WinServer STIG Tool\obj\Debug\net8.0-windows\ref\Basic WinServer STIG Tool.dll

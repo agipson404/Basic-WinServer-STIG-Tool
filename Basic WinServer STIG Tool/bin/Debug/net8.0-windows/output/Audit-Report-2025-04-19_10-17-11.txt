@@ -1,0 +1,6 @@
+[2025-04-19 10:17:10] ==== STIG Audit Started ====
+[2025-04-19 10:17:10] Password Complexity: COMPLIANT (Value: 1)
+[2025-04-19 10:17:10] RDP NLA: COMPLIANT (Value: 1)
+[2025-04-19 10:17:10] Remote Desktop: COMPLIANT (Disabled) (Value: 1)
+[2025-04-19 10:17:10] Guest Account: COMPLIANT (Disabled)
+[2025-04-19 10:17:10] ==== Audit Complete ====
