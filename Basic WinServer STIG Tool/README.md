@@ -1,4 +1,5 @@
 ﻿# 🛡️ Basic WinServer STIG Tool
+ Created By: Arthur Gipson
 
 **Basic WinServer STIG Tool** is a basic C# desktop application that audits and remediates key Windows Server security settings based on DISA STIG compliance. Built as a simple user-friendly GUI, it’s designed for system administrators who need a simple way to validate system hardening requirements.
 
